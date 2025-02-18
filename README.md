@@ -3,6 +3,8 @@ This repository gives the code for the project "TID Effect in Spiking Neural Net
 **Requirements**
 pandas
 opencv
+torch
+matplotlib
 
 
 **Instructions to run train and test files**
