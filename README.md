@@ -1,10 +1,8 @@
 This repository gives the code for the project "TID Effect in Spiking Neural Networks"
 
 **Requirements**
-pandas
-opencv
-torch
-matplotlib
+
+The requirements that are required to run the files are given in 'requirements.txt'.
 
 
 **Instructions to run train and test files**
