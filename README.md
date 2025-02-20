@@ -1,4 +1,4 @@
-This repository gives the code for the project "TID Effect in Spiking Neural Networks"
+This repository gives the code for the project "TID Effect in Spiking Neural Networks".
 
 **Requirements**
 
